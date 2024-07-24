@@ -1,0 +1,48 @@
+
+------------------------------------------
+
+send file to some repo we need to connect the directory to the repository
+
+git init
+
+git remote "url"
+
+git add ""
+
+git commit -m ""
+
+git push origin master
+
+
+
+------------------------------------------
+fork
+
+click clone button n-ssh url copy
+go to terminal 
+git clone "cloneurl"
+
+cloned that repo to local directory
+
+
+open terminal cd to cloned directory
+
+make changes code test 
+
+then 
+
+terminal go to terminal
+
+
+git add .
+
+git commit -m "comment"
+
+git push origin master
+------------------------------------------
+
+
+
+
+
+
