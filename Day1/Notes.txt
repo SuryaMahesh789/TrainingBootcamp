@@ -1,0 +1,69 @@
+Fundamentals
+
+Programming
+Full stack development
+AI /ML/ Data Science
+Operating Systems
+
+
+Linux,Unix?
+List all the differences between unix and linux?
+
+Linux Distributions?
+Ubuntu?
+
+Linux cheatsheet?
+
+
+PWD 
+
+https://www.geeksforgeeks.org/basic-linux-commands/
+
+
+
+shell scripting
+
+#!/bin/bash
+echo "Hello, World!"
+
+chmod +x hello.sh
+./hello.sh
+
+
+
+
+Example of a Shell Command and Script
+Command Line:
+
+sh
+Copy code
+echo "Hello, World!"
+Shell Script (hello.sh):
+
+sh
+Copy code
+#!/bin/bash
+echo "Hello, World!"
+To run the script:
+
+sh
+Copy code
+chmod +x hello.sh
+./hello.sh
+In summary, the shell serves as the command-line interface between the user and the operating system, and shell scripting allows users to automate and customize their interactions with the system.
+
+
+
+
+
+
+GPT NOTES
+https://chatgpt.com/share/4e15811b-7e8d-4aae-9d25-1a7471ddca10
+
+https://chatgpt.com/share/4e15811b-7e8d-4aae-9d25-1a7471ddca10
+
+
+
+
+
+
